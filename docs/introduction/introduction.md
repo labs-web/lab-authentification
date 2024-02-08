@@ -6,4 +6,4 @@ order: 1
 
 # Introduction
 
-![introduction](../introduction/images/Introduction.jpg)
+![introduction](../introduction/images/Introduction.png)
