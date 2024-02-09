@@ -31,8 +31,17 @@
             {
                 "Titre":"Autoformation",
                 "Lien":"#"
+            },
+            {
+                "Titre" : "Rapport",
+                "Lien":"https://labs-web.github.io/lab_authentification/rapport.html"
+
+            },
+            {
+                "Titre" : "Présentation",
+                "Lien":"https://labs-web.github.io/lab_authentification/presentation.html"
+
             }
-           
         ]
     } 
     
