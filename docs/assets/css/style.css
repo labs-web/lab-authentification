@@ -4,21 +4,15 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
-/* fix image taille error */
 img {
   width: 100%;
-}
-
-figure {
-  margin: 0;
-  padding: 0;
-}
-
-figcaption {
   text-align: center;
 }
 
-figcaption {
+/* Figure */
+img+p {
+  display: block;
+  text-align: center;
   font-style: italic;
   font-size: 14px;
   color: #666;
@@ -27,11 +21,20 @@ figcaption {
 
 h1 {
   font-size: 40px;
+  text-transform: capitalize;
 }
 
 h2 {
-  font-size: 30px;
+  font-size: 1.6em;
+  text-transform: capitalize;
 }
+
+h3 {
+  font-size: 1.25em;
+  text-transform: capitalize;
+}
+
+
 
 article[size="A4"] {
   display: block;
@@ -54,14 +57,9 @@ article[size="A4"] {
 
   img {
     width: 85%;
+    text-align: center !important;
+
   }
 
 
 }
-
-
-
-/* 
-.language-plaintext{
-  display: none;
-} */
