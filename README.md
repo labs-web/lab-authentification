@@ -1,9 +1,31 @@
-# lab-authentification
+#  
 
+- Référence :   
 
-## rapport 
-[lab-rapport](https://labs-web.github.io/lab_authentification/rapport.html)
+ 
 
+## Backlog 
 
-## Présentation 
-[lab-rapport](https://labs-web.github.io/lab_authentification/presentation.html)
+Le backlog est une liste ordonées des tâches 
+
+- **chapitre** 
+- **exposé** 
+- **feature** 
+- **sous-tâche** 
+  - [1.init-présentation.7.md](./Backlog/sous-tâche/1.init-présentation.7.md) 
+## Livrables 
+
+ 
+
+- /Backlog 
+  - Backlog 
+- /docs 
+  - Documentation 
+## Références 
+
+ 
+
+- [Autoformation](#) 
+- [Rapport](https://labs-web.github.io/lab_authentification/rapport.html) 
+- [Présentation](https://labs-web.github.io/lab_authentification/presentation.html) 
+
