@@ -6,11 +6,14 @@ order: 2
 
 
 # backlog
+<!-- new slide -->
 
 
 ### Structure des dossiers
 
 ![dossiers](../backlog/images/dossiers.png)
+
+<!-- note -->
 
 - DOCS
   - Index.md
@@ -25,3 +28,4 @@ order: 2
   -  Rapport.md
   -  Présentation.html
 
+<!-- new slide -->
