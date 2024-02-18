@@ -1,14 +1,22 @@
 ---
 layout: default
-slug: /index
 order: 1
 ---
 
+{% assign pages = site.pages | sort: "order" %}
+{% for page in pages %}
+{% if page.url != "/feed.xml" 
+and page.url != "/assets/css/style.css" 
+and  page.url != "/"  
+and page.url != "/presentation.html" %}
 
-# lab-authentification
+<!-- page.content | markdownify -->
+{{page.content }}
 
-## rapport 
-[lab-rapport](https://labs-web.github.io/lab_authentification/rapport.html)
+{% endif %}
+{% endfor %}
 
-## Présentation 
-[Présentation](https://labs-web.github.io/lab_authentification/presentation.html)
+
+
+ 
+ 
