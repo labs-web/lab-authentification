@@ -1,4 +1,4 @@
-# init-présentation
+# init-lab
 
 ## Travail à faire
 
