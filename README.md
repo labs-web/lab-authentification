@@ -12,7 +12,8 @@ Le backlog est une liste ordonées des tâches
 - **exposé** 
 - **feature** 
 - **sous-tâche** 
-  - [1.init-présentation.7.md](./Backlog/sous-tâche/1.init-présentation.7.md) 
+  - [init-lab.md](./Backlog/sous-tâche/init-lab.md) 
+- **thème** 
 ## Livrables 
 
  
@@ -23,7 +24,9 @@ Le backlog est une liste ordonées des tâches
   - Documentation 
 ## Références 
 
+ 
+
+- [Autoformation](#) 
 - [Rapport](https://labs-web.github.io/lab-authentification/rapport.html) 
 - [Présentation](https://labs-web.github.io/lab-authentification/presentation.html) 
-
 
