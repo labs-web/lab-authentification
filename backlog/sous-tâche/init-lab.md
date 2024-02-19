@@ -1,8 +1,8 @@
-# init-présentation
+# init-lab
 
 ## Travail à faire
 
-- Création d'une présentation sans contenu, mais avec les titres des diapositives
+- Creation d'une rapport sans contenu, mais avec les titres des diapositives
 - ajouter le lien du rapport dans README.md et README.json
 
 ## Livrable
